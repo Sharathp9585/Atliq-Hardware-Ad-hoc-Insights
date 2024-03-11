@@ -5,19 +5,16 @@
 This project is done as part of Codebasics Data Analyst Bootcamp
 
 ### Problem Statement
-Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
-
+Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. 
 ### Task
 Imagine yourself as the applicant for this role and perform the following task:
-- Check ‘ad-hoc-requests.pdf’ - there are 6 ad hoc requests for which the business needs insights. You need to run a SQL query to answer these requests. The target audience of this dashboard is top-level management - hence you need to create a powerpoint presentation to show the insights. Be creative with your presentation.
+- Check ‘ad-hoc-requests.pdf’ - there are 6 ad hoc requests for which the business needs insights. I was required to run a SQL query to answer those requests. The target audience was top-level management.
 
 ### Action
 - Use MySQL database for storing the records
 - Uses Advanced SQL concepts like Joins, Subquery, CTEs, and Window function to write complex queries to find out insight from the records.
-- For automation use advance stuff like Stored Procedures and Views.
-- Learn domain knowledge: fiscal year, quarters, profit & loss statements.
-- Use Google and Chatgpt as mentor wherever find difficulty.
-
+- For automation use Stored Procedures and Views.
+  
 ### Major Insights
 - Croma operated only in the Indian market.
 - Croma India sales increase by 180 % in the fiscal year 2021.
