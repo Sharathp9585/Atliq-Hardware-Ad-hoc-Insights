@@ -8,7 +8,7 @@ This project is done as part of Codebasics Data Analyst Bootcamp
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. 
 ### Task
 Imagine yourself as the applicant for this role and perform the following task:
-- Check ‘ad-hoc-requests.pdf’ - there are 6 ad hoc requests for which the business needs insights. I was required to run a SQL query to answer those requests. The target audience was top-level management.
+- Check [ad-hoc-requests.pdf](ad-hoc-requests.pdf) - there are 6 ad hoc requests for which the business needs insights. I was required to run a SQL query to answer those requests. The target audience was top-level management.
 
 ### Action
 - Use MySQL database for storing the records
