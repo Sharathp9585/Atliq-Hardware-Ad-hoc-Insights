@@ -14,7 +14,7 @@ Imagine yourself as the applicant for this role and perform the following task:
 - Use MySQL database for storing the records
 - Uses Advanced SQL concepts like Joins, Subquery, CTEs, and Window function to write complex queries to find out insight from the records.
 - For automation use Stored Procedures and Views.
-- Check [report_with_query](report_with_query.ppt)
+- Check [report_with_query](report_with_sql_query.ppt)
 
   
 ### Major Insights
